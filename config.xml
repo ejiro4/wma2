@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
-		id        = "com.quantumng.app"
+		id        = "com.quantumng.app2"
 		versionCode="1.2.0"
 		version   = "wma1">
 		<name>WinnersMobileAssistant</name>
 		<description>Winners Mobile Assistant (WMA)app. Developed by Quantum ~ www.quantum-ng.com</description>
 		<author href="www.quantum-ng.com" email="contact@quantum-ng.com">
-         Media & Creativity Department, LFC, Durumi
+         LFC
 		</author>
 		<preference name="phonegap-version" value="3.7.0" />
 		<preference name="orientation" value="portrait" />
